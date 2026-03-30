@@ -1,4 +1,4 @@
-Email 1: To Professor (Extension Request)
+### Email 1: To Professor (Extension Request)
 
 Respected Sir/Ma’am,
 
@@ -19,7 +19,7 @@ VIT Bhopal University
 
 
 
-Email 2: Internship Request
+### Email 2: Internship Request
 
 Respected Sir/Ma’am,
 
